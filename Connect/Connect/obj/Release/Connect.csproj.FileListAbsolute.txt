@@ -1,0 +1,7 @@
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\bin\Release\Connect.exe.config
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\obj\Release\Connect.csproj.ResolveComReference.cache
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\bin\Release\Connect.exe
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\bin\Release\Connect.pdb
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\bin\Release\MySql.Data.dll
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\obj\Release\Connect.exe
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\obj\Release\Connect.pdb

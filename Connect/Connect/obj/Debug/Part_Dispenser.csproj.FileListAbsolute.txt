@@ -1,0 +1,16 @@
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\bin\Debug\Connect.exe.config
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\bin\Debug\Connect.exe
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\bin\Debug\Connect.pdb
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\obj\Debug\Part_Dispenser.csprojResolveAssemblyReference.cache
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\obj\Debug\Part_Dispenser.csproj.ResolveComReference.cache
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\obj\Debug\Connect.exe
+c:\users\filab-pd\documents\visual studio 2015\Projects\Connect\Connect\obj\Debug\Connect.pdb
+C:\Users\FILAB-PD\Documents\Visual Studio 2015\Projects\Connect\Connect\bin\Debug\MySql.Data.dll
+C:\Users\FILAB-PD\Desktop\Connect\Connect\bin\Debug\Connect.exe.config
+C:\Users\FILAB-PD\Desktop\Connect\Connect\obj\Debug\Part_Dispenser.csproj.ResolveComReference.cache
+C:\Users\FILAB-PD\Desktop\Connect\Connect\obj\Debug\Connect.exe
+C:\Users\FILAB-PD\Desktop\Connect\Connect\obj\Debug\Connect.pdb
+C:\Users\FILAB-PD\Desktop\Connect\Connect\bin\Debug\Connect.exe
+C:\Users\FILAB-PD\Desktop\Connect\Connect\bin\Debug\Connect.pdb
+C:\Users\FILAB-PD\Desktop\Connect\Connect\bin\Debug\MySql.Data.dll
+C:\Users\FILAB-PD\Desktop\Connect\Connect\obj\Debug\Part_Dispenser.csprojResolveAssemblyReference.cache
