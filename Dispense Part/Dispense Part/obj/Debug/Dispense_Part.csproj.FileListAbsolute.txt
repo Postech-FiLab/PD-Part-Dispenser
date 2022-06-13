@@ -1,0 +1,13 @@
+C:\Users\FILAB-PD\Desktop\Part Dispenser\Dispense Part\Dispense Part\obj\Debug\Dispense_Part.csprojResolveAssemblyReference.cache
+C:\Users\FILAB-PD\Desktop\Part Dispenser\Dispense Part\Dispense Part\bin\Debug\Dispense Part.exe.config
+C:\Users\FILAB-PD\Desktop\Part Dispenser\Dispense Part\Dispense Part\bin\Debug\Dispense Part.exe
+C:\Users\FILAB-PD\Desktop\Part Dispenser\Dispense Part\Dispense Part\bin\Debug\Dispense Part.pdb
+C:\Users\FILAB-PD\Desktop\Part Dispenser\Dispense Part\Dispense Part\obj\Debug\Dispense Part.exe
+C:\Users\FILAB-PD\Desktop\Part Dispenser\Dispense Part\Dispense Part\obj\Debug\Dispense Part.pdb
+C:\Users\FILAB-PD\Desktop\Dispense Part\Dispense Part\bin\Debug\Dispense Part.exe.config
+C:\Users\FILAB-PD\Desktop\Dispense Part\Dispense Part\obj\Debug\Dispense Part.exe
+C:\Users\FILAB-PD\Desktop\Dispense Part\Dispense Part\obj\Debug\Dispense Part.pdb
+C:\Users\FILAB-PD\Desktop\Dispense Part\Dispense Part\bin\Debug\Dispense Part.exe
+C:\Users\FILAB-PD\Desktop\Dispense Part\Dispense Part\bin\Debug\Dispense Part.pdb
+C:\Users\FILAB-PD\Desktop\Dispense Part\Dispense Part\obj\Debug\Dispense_Part.csproj.AssemblyReference.cache
+C:\Users\FILAB-PD\Desktop\Dispense Part\Dispense Part\obj\Debug\Dispense_Part.csproj.CoreCompileInputs.cache
