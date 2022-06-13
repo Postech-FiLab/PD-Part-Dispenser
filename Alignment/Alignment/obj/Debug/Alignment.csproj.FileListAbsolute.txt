@@ -1,0 +1,9 @@
+C:\Users\FILAB-PD\Desktop\Alignment\Alignment\Alignment\bin\Debug\Alignment.exe.config
+C:\Users\FILAB-PD\Desktop\Alignment\Alignment\Alignment\bin\Debug\Alignment.exe
+C:\Users\FILAB-PD\Desktop\Alignment\Alignment\Alignment\bin\Debug\Alignment.pdb
+C:\Users\FILAB-PD\Desktop\Alignment\Alignment\Alignment\obj\Debug\Alignment.csprojResolveAssemblyReference.cache
+C:\Users\FILAB-PD\Desktop\Alignment\Alignment\Alignment\obj\Debug\Alignment.exe
+C:\Users\FILAB-PD\Desktop\Alignment\Alignment\Alignment\obj\Debug\Alignment.pdb
+C:\Users\FILAB-PD\Desktop\Alignment\Alignment\bin\Debug\Alignment.exe.config
+C:\Users\FILAB-PD\Desktop\Alignment\Alignment\obj\Debug\Alignment.exe
+C:\Users\FILAB-PD\Desktop\Alignment\Alignment\obj\Debug\Alignment.pdb
